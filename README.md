@@ -87,7 +87,7 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENS
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o contactarme directamente en [tu-email@example.com](mailto:tu-email@example.com).
+Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o contactarme directamente en [Javier Morrón](mailto:tu-info@javiermorron.com).
 
 ---
 
