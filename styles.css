@@ -34,6 +34,7 @@ body {
     height: 200px; /* Ajusta la altura según sea necesario */
     transform-style: preserve-3d;
     transition: transform 1s;
+    border-radius: 20px;
 }
 
 .stat-item:hover {
@@ -54,6 +55,7 @@ body {
     justify-content: center;
     text-align: center;
     box-sizing: border-box; /* Asegura que el padding no afecte el tamaño */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Agrega sombra a ambos lados */
 }
 
 .stat-item .back {
@@ -211,4 +213,5 @@ button:hover {
 .stat-item.ctr .ctr-text {
     color: #ffd700; /* Texto amarillo */
 }
+
 
