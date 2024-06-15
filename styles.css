@@ -41,6 +41,22 @@ body {
     transform: rotateY(180deg);
 }
 
+.stat-item .front {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+}
+
+#ctrChart {
+    width: 100% !important;
+    height: auto !important;
+}
+
+
+
 .stat-item .front,
 .stat-item .back {
     position: absolute;

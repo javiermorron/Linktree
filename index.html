@@ -6,6 +6,8 @@
     <title>Analiza tu audiencia</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <!-- Otros enlaces y estilos -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
     <div class="container">
@@ -47,7 +49,7 @@
             </div>
             <div class="stat-item ctr">
                 <div class="front">
-                    <div class="line-chart"></div>
+                    <canvas id="ctrChart" width="200" height="100"></canvas>
                     <p class="ctr-text"><i class="fas fa-chart-line"></i> 91% CTR</p>
                 </div>
                 <div class="back">
@@ -62,6 +64,7 @@
             <button>Empieza gratis</button>
         </div>
     </div>
+    <script src="javascript.js"></script>
 </body>
 </html>
 
