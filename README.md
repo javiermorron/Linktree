@@ -1,94 +1,54 @@
-# Web-Linktree
 
-¡Bienvenido a mi proyecto de Web inspirado en Linktree! Este proyecto utiliza una variedad de efectos y elementos CSS para crear una experiencia de usuario atractiva e interactiva.
+# Linktree Personalizado
+
+Este es un proyecto de **Linktree** personalizado realizado con **HTML**, **CSS** y **JavaScript**. Permite crear una página de enlaces sencilla y visualmente atractiva para compartir múltiples links desde un solo lugar.
 
 ## Descripción
 
-Este proyecto es una aplicación web que permite a los usuarios crear y gestionar enlaces de una manera similar a Linktree. Está diseñado para ser simple, intuitivo y visualmente atractivo, utilizando una variedad de efectos CSS para mejorar la experiencia del usuario.
+La idea principal de este proyecto es replicar el concepto de **Linktree**, una herramienta muy popular para tener varios enlaces en una sola página de manera ordenada y accesible.
+
+Este proyecto fue creado con la finalidad de practicar mis habilidades en desarrollo web y crear una solución útil para tener todos mis enlaces organizados en un solo lugar.
 
 ## Características
 
-- Rotación 3D de tarjetas para mostrar información adicional.
-- Diseño responsivo y moderno.
-- Fácil de personalizar y expandir.
+- Diseño responsivo, adaptable a cualquier dispositivo.
+- Personalización mediante **CSS** (colores, tipografía, etc.).
+- Interactividad simple con **JavaScript**.
+- Soporte para agregar múltiples enlaces.
 
-## Tecnologías Utilizadas
+## Tecnologías
 
-- **Front-end**: HTML, CSS, JavaScript (React)
-- **Back-end**: Node.js y Express
-- **Base de Datos**: MongoDB
-- **Hosting**: Vercel (front-end) y Heroku (back-end)
+- **HTML**: Estructura básica de la página.
+- **CSS**: Estilos y personalización visual.
+- **JavaScript**: Interactividad sencilla.
 
 ## Instalación
 
-Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
+Para instalar y probar este proyecto localmente:
 
-1. Clona el repositorio:
+1. Cloná este repositorio a tu máquina local:
     ```bash
-    git clone https://github.com/tuusuario/linktree.git
+    git clone https://github.com/javiermorron/Linktree.git
     ```
 
-2. Navega al directorio del proyecto:
+2. Navegá a la carpeta del proyecto:
     ```bash
-    cd linktree
+    cd Linktree
     ```
 
-3. Instala las dependencias del back-end:
+3. Abrió el archivo `index.html` en tu navegador:
     ```bash
-    cd backend
-    npm install
+    open index.html
     ```
 
-4. Inicia el servidor del back-end:
-    ```bash
-    npm start
-    ```
+¡Y listo! Ya podés empezar a personalizar el proyecto según tus necesidades.
 
-5. Instala las dependencias del front-end:
-    ```bash
-    cd ../frontend
-    npm install
-    ```
+## Contribuciones
 
-6. Inicia el servidor del front-end:
-    ```bash
-    npm start
-    ```
-
-## Uso
-
-Una vez que ambos servidores estén en funcionamiento, abre tu navegador web y navega a `http://localhost:3000` para ver la aplicación en acción.
-
-## Contribuir
-
-¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama para tu funcionalidad o corrección de errores:
-    ```bash
-    git checkout -b nombre-de-tu-rama
-    ```
-
-3. Realiza tus cambios y confirma tus commits:
-    ```bash
-    git commit -m "Descripción de tus cambios"
-    ```
-
-4. Sube tus cambios a tu repositorio fork:
-    ```bash
-    git push origin nombre-de-tu-rama
-    ```
-
-5. Abre un Pull Request en este repositorio.
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
-
-## Contacto
-
-Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o contactarme directamente en [Javier Morrón](mailto:tu-info@javiermorron.com).
+Si querés contribuir a este proyecto, no dudes en hacer un **fork** y crear un **pull request**.
 
 ---
 
-¡Gracias por visitar mi proyecto! Espero que te sea útil y divertido trabajar con él.
+## Licencia
+
+Este proyecto está bajo la licencia [MIT](https://opensource.org/licenses/MIT).
